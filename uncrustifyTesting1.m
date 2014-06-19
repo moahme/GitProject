@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testing!!!
+=======
+TESTING !!!
+>>>>>>> testing
